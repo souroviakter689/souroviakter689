@@ -98,97 +98,31 @@ Image Classification · Explainable AI
 
 ## 📈 GitHub Overview
 
+<!-- GitHub Activity -->
+
+<h2 align="center">📊 My GitHub Journey</h2>
+
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=souroviakter689&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souroviakter689&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=souroviakter689&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### ☀️ Solar Power Forecasting
-
-Research on solar power forecasting for Bangladesh using
-weather data, machine learning, and deep learning.
-
-**Focus Areas**
-- Time-series forecasting
-- Feature engineering
-- Explainable AI
-- Uncertainty estimation
-
-**Status:** Manuscript submitted to ICEEICT 2027.
+<img src="https://github-readme-stats.vercel.app/api?username=souroviakter689&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=C084FC&text_color=C9D1D9&bg_color=0D1117" width="100%" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🔬 PCB Defect Detection
-
-An explainable computer vision framework for detecting
-printed circuit board defects.
-
-**Focus Areas**
-- YOLO-based object detection
-- Metaheuristic optimization
-- EigenCAM-based interpretation
-
-**Status:** Manuscript submitted to ICCIT 2026.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ Land-Cover Classification
-
-Satellite imagery analysis for Bangladesh-specific
-land-cover classification.
-
-**Focus Areas**
-- Transfer learning
-- Image classification
-- Grad-CAM interpretation
-
-**Reported Accuracy:** 99.44%
-
-**Status:** Manuscript submitted to ICCIT 2026.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌏 Indigenous Language Similarity
-
-Computational analysis of relationships among low-resource
-Indigenous languages of Bangladesh.
-
-**Focus Areas**
-- Language embeddings
-- Similarity analysis
-- Clustering
-- Statistical validation
-
-**Status:** Manuscript submitted to ICCIT 2026.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souroviakter689&layout=donut&theme=transparent&hide_border=true&title_color=60A5FA&text_color=C9D1D9&bg_color=0D1117" width="100%" />
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souroviakter689&theme=transparent&hide_border=true&ring=C084FC&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E" width="80%" />
+
+</div>
+
 
 <!-- ===================== RESEARCH INTERESTS ===================== -->
 

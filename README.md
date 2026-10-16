@@ -2,14 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A0B1020%2C50%3A172554%2C100%3A312E81&section=header&reversal=false&text=Sourovi+Akter+Purnima&textBg=false&fontColor=%23FFFFFF&fontSize=42&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&desc=Data+Analyst+%7C+AI%2FML+Engineer+%7C+Computer+Vision+Researcher&descSize=13&descAlign=50&descAlignY=65" width="100%" />
+<img src=["https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A0B1020%2C50%3A172554%2C100%3A312E81&section=header&reversal=false&text=Sourovi+Akter+Purnima&textBg=false&fontColor=%23FFFFFF&fontSize=42&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&desc=Data+Analyst+%7C+AI%2FML+Engineer+%7C+Computer+Vision+Researcher&descSize=13&descAlign=50&descAlignY=65" width="100%" />](https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A0B1020%2C50%3A172554%2C100%3A312E81&section=header&text=Sourovi+Akter+Purnima&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=40&strokeWidth=0&desc=Data+Analyst+%7C+AI%2FML+Engineer+%7C+Computer+Vision+Researcher&descSize=13&descColor=93C5FD&descAlign=50&descAlignY=68&utm_source=chatgpt.com)
 
 
 <br/>
 
-<a href="https://github.com/souroviakter689">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
 <a href="mailto:souroviakter98@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>

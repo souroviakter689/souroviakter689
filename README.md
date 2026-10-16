@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:312E81&height=190&section=header&text=Sourovi%20Akter%20Purnima&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20ANALYST%20%7C%20AI%20%26%20MACHINE%20LEARNING%20%7C%20COMPUTER%20VISION%20RESEARCHER&descSize=13&descAlignY=68&descColor=93C5FD" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A0B1020%2C50%3A172554%2C100%3A312E81&section=header&reversal=false&text=Sourovi+Akter+Purnima&textBg=false&fontColor=%23FFFFFF&fontSize=42&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&desc=Data+Analyst+%7C+AI%2FML+Engineer+%7C+Computer+Vision+Researcher&descSize=13&descAlign=50&descAlignY=65" width="100%" />
+
 
 <br/>
 
@@ -16,6 +17,8 @@
 </div>
 
 ---
+
+
 
 <!-- ===================== ABOUT ME ===================== -->
 

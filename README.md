@@ -96,8 +96,6 @@ Image Classification · Explainable AI
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📈 GitHub Overview
-<!-- GitHub Activity -->
 
 <h2 align="center">📈 GitHub Activity</h2>
 

@@ -97,31 +97,18 @@ Image Classification · Explainable AI
 <!-- ===================== GITHUB STATS ===================== -->
 
 ## 📈 GitHub Overview
-
 <!-- GitHub Activity -->
 
-<h2 align="center">📊 My GitHub Journey</h2>
+<h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=souroviakter689&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=C084FC&text_color=C9D1D9&bg_color=0D1117" width="100%" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souroviakter689&layout=donut&theme=transparent&hide_border=true&title_color=60A5FA&text_color=C9D1D9&bg_color=0D1117" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=souroviakter689&theme=transparent&hide_border=true&ring=C084FC&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=souroviakter689&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=C9D1D9&icon_color=8B5CF6&bg_color=0D1117" width="65%" />
 
 </div>
+
+
+
 
 
 <!-- ===================== RESEARCH INTERESTS ===================== -->

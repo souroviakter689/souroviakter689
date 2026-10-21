@@ -1,7 +1,7 @@
 <!-- ===================== HERO BANNER ===================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A071A14%2C50%3A064E3B%2C100%3A10B981&section=header&text=Sourovi+Akter+Purnima&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=40&desc=Data+Analyst+%7C+AI%2FML+Engineer+%7C+Computer+Vision+Researcher&descSize=13&descAlign=50&descAlignY=65&descColor=A7F3D0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A071A14%2C50%3A064E3B%2C100%3A10B981&section=header&text=Sourovi+Akter+Purnima&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=40&desc=AI%2FML+Engineer+%7C+Data+Analyst+%7C+Computer+Vision+Researcher&descSize=13&descAlign=50&descAlignY=65&descColor=A7F3D0" width="100%" />
 
 <br/>
 

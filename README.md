@@ -100,16 +100,22 @@ Image Classification · Explainable AI
 <!-- ===================== GITHUB STATS ===================== -->
 
 
+
 <h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=souroviakter689&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&text_color=C9D1D9&icon_color=8B5CF6&bg_color=0D1117" width="65%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=souroviakter689&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&text_color=C9D1D9&icon_color=8B5CF6&bg_color=0D1117" width="65%" alt="GitHub Stats" />
 
 </div>
 
+<br>
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souroviakter689&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+
+</div>
 
 
 <!-- ===================== RESEARCH INTERESTS ===================== -->

@@ -104,7 +104,7 @@ Image Classification · Explainable AI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=souroviakter689&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=C9D1D9&icon_color=8B5CF6&bg_color=0D1117" width="65%" />
+<img src="https://github-readme-stats.vercel.app/api?username=souroviakter689&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&text_color=C9D1D9&icon_color=8B5CF6&bg_color=0D1117" width="65%" alt="GitHub Stats" />
 
 </div>
 
